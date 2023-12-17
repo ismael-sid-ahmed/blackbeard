@@ -1,0 +1,171 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-35f700ec7d206edf4d19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "blackbeard",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-blackbeard-Debug-43d40ccad7739df83210.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "blackbeard",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "blackbeard/vendor/glfw",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-blackbeard.vendor.glfw-Debug-836143790962dea99eac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "blackbeard/vendor/glfw",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "blackbeard/vendor/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-blackbeard.vendor.glfw.src-Debug-65c32efbbd6a9b4a08f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "blackbeard/vendor/glfw/src",
+					"targetIndexes" : 
+					[
+						2,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "blackbeard",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2,
+						3
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "blackbeard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blackbeard-Debug-8de21620d60f05659fe8.json",
+					"name" : "blackbeard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "core::@1408280235cfd1f94ba0",
+					"jsonFile" : "target-core-Debug-2d8b44dee33159d57782.json",
+					"name" : "core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glfw::@98bcf6af14c98a73c336",
+					"jsonFile" : "target-glfw-Debug-a39e02cc4f1836437aff.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "uninstall::@8deb14af2ccda2e1025c",
+					"jsonFile" : "target-uninstall-Debug-b53f7317000296ddffc0.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "update_mappings::@98bcf6af14c98a73c336",
+					"jsonFile" : "target-update_mappings-Debug-45fe66bb3c7f7e9cb4a7.json",
+					"name" : "update_mappings",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ismael/projects/blackbeard/build",
+		"source" : "/home/ismael/projects/blackbeard/src/blackbeard"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

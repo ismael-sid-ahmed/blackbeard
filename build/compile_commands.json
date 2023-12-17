@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/c++ -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/{CMAKE_CURRENT_SOURCE_DIR} -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -g -o CMakeFiles/blackbeard.dir/main.cpp.o -c /home/ismael/projects/blackbeard/src/blackbeard/main.cpp",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/main.cpp",
+  "output": "CMakeFiles/blackbeard.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/c++ -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -g -o blackbeard/CMakeFiles/core.dir/core/window.cpp.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/core/window.cpp",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/core/window.cpp",
+  "output": "blackbeard/CMakeFiles/core.dir/core/window.cpp.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/context.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/context.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/context.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/init.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/init.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/init.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/input.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/input.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/input.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/monitor.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/monitor.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/monitor.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/platform.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/platform.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/platform.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/vulkan.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/vulkan.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/window.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/window.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/window.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/egl_context.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/egl_context.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/osmesa_context.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/osmesa_context.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/null_init.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/null_init.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/null_init.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/null_monitor.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/null_monitor.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/null_window.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/null_window.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/null_window.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/null_joystick.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/null_joystick.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/posix_module.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/posix_module.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/posix_time.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/posix_time.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/posix_thread.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/posix_thread.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/x11_init.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/x11_init.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/x11_monitor.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/x11_monitor.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/x11_window.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/x11_window.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/xkb_unicode.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/xkb_unicode.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/glx_context.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/glx_context.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/linux_joystick.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/linux_joystick.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+},
+{
+  "directory": "/home/ismael/projects/blackbeard/build",
+  "command": "/usr/bin/cc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/include -I/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src -I/home/ismael/projects/blackbeard/build/blackbeard/vendor/glfw/src -g -std=c99 -fPIC -Wall -o blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o -c /home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/posix_poll.c",
+  "file": "/home/ismael/projects/blackbeard/src/blackbeard/blackbeard/vendor/glfw/src/posix_poll.c",
+  "output": "blackbeard/vendor/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o"
+}
+]
